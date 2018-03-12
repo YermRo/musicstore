@@ -1,0 +1,9 @@
+
+psquid:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(¸œŠšùÿÿÿÿ
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(­•ÿÿ
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚“¶î
+@squid:S1068"+Remove this unused "WELCOME" private field.(—û¥Ÿ
+fsquid:S1068"LRemove this unused "NOT_LOGGED_USER_REDIRECTED_TO_LOGIN_PAGE" private field.(ü©Ž‚øÿÿÿÿ
+Dsquid:S1066"/Merge this if statement with the enclosing one.(¶ç…ª
+<squid:S1068"'Remove this unused "ADD" private field.(ŠÉ·Ù
+esquid:S1192"KUse already-defined constant 'LOGIN' instead of duplicating its value here.(×—»Îÿÿÿÿÿ

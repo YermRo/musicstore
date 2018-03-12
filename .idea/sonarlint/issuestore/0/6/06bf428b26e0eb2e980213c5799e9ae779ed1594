@@ -1,0 +1,5 @@
+
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(ó®ÛÒûÿÿÿÿ
+bsquid:S1192"HUse already-defined constant 'ID' instead of duplicating its value here.(ï£šìşÿÿÿÿ
+osquid:S2068"U'PASSWORD' detected in this expression, review this potentially hardcoded credential.(…İêùÿÿÿÿ
+osquid:S2068"U'PASSWORD' detected in this expression, review this potentially hardcoded credential.(Â¾úÿÿÿÿ

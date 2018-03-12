@@ -1,0 +1,4 @@
+
+Asquid:S1481",Remove this unused "address" local variable.(Š÷è
+º%squid:RedundantThrowsDeclarationCheck"…Remove the declaration of thrown exception 'com.epam.musicstore.service.ServiceException', as it cannot be thrown from method's body.(Óíªáøÿÿÿÿ
+jsquid:S2068"U'PASSWORD' detected in this expression, review this potentially hardcoded credential.(ÇÏ±‰
